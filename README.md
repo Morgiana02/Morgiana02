@@ -6,6 +6,8 @@
 </p>
 
 [![GitHub ljy2002](https://img.shields.io/github/followers/ljy2002?label=follow&style=social)](https://github.com/ljy2002)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ljy2002)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
