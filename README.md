@@ -1,6 +1,6 @@
 <h1 align="center">
   
-  Welcome to my page !/&gt;!
+  Welcome to my page !
   
 </h1>
 
