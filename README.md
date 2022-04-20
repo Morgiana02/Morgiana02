@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljy2002)](https://github.com/anuraghazra/github-readme-stats)
+// github - stats
+https://github-readme-stats.vercel.app/api?username=ljy2002theme=dark&show_icons=true
+// most - used-language
+https://github-readme-stats.vercel.app/api/top-langs/?username=ljy2002&layout=compact&hide=html&theme=dark
+// total - contribution
+https://github-readme-streak-stats.herokuapp.com/?user=ljy2002&theme=highcontrast
+
 
 
 <!--
