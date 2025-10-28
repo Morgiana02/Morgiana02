@@ -1,8 +1,8 @@
-<h2> Hi, I'm ljy! Welcome to my page !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Welcome to my page !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.pinimg.com/originals/12/72/94/127294a63188287fa4f96d46963904d0.gif" width="230">
-<p><em>A student from TJU<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Looking for offer (ing)<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </br>
- Someone who is busying with ddl everyday <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ ovo ovo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 
 [![GitHub ljy2002](https://img.shields.io/github/followers/ljy2002?label=follow&style=social)](https://github.com/ljy2002)
