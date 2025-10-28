@@ -28,8 +28,8 @@
 
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=ljy2002&row=1&column=6&no-frame=true&no-bg=true&theme=juicyfresh" /></div>
-<br>
+<!-- <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=ljy2002&row=1&column=6&no-frame=true&no-bg=true&theme=juicyfresh" /></div>
+<br> -->
 
 <!-- GitHub数据统计 -->
 <div align="center">
