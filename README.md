@@ -40,12 +40,12 @@
 
 
 <!-- GitHub Activity Graph -->
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td colspan="2">
       <img src="https://activity-graph.herokuapp.com/graph?username=ljy2002&theme=react-dark&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
